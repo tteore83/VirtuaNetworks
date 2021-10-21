@@ -53,3 +53,12 @@ Effectuez les recherche nécessaires et centraliser les dans Notions ou autre de
 **Le code doit être validé par le W3C.**
 
 Respecter le SEO et [l'accessibilité](https://blog.ipedis.com/ameliorer-accessibilite-numerique-site-web.).
+
+## Livraison
+
+Voici la liste des documents clés que devra être fournis :
+* L’arborescence du site
+* Les mockups et les templates (formats images et originals)
+* Les codes HTML et CSS utilisés
+* Les codes d’accès à votre interface d’administration
+* Un cahier décrivant son fonctionnement
