@@ -1,6 +1,7 @@
 # VirtuaNetworks
 
-La création de ce site vitrine, va demander un travail en amont avant de passer à la réalisation de celui-ci.
+La création de ce site vitrine, va demander un travail en amont avant de passer à la réalisation de celui-ci.  
+Le client, Jérôme Louis, considère ce projet comme une "phase 1". Ce qui laisse entendre que si un des projets lui convient, une suite sera donnée.
 
 ## Chef de groupe
 
