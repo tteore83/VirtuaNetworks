@@ -11,6 +11,8 @@ Chaques étape doit être validées par le chef de groupe.
 
 Afin d'avancer de manière linéaires, vous devez choisir un chef d'équipe qui sera en communication avec le chef de groupe afin de faciliter la communication.
 
+> :warning: On redescend sur terre. Le chef d'équipe n'est pas le coordinateur du groupe. Son rôle est de simplifier la communication avec le chef de groupe. Les décisions doivent se prendre de manière **collégiale**.
+
 ## Organisation
 
 L'organisation est très importante et le nombres d'outils mise à disposition l'est tout autant. Pour ce travail, vous utiliserez l'application [Notions](https://www.notion.so/fr-fr). Vous pouvez créer votre équipe au sein de l'application et n'oubliez pas d'inviter le Chef de Groupe qu'il puisse visualiser votre avancement et organisation.
