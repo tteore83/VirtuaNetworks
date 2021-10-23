@@ -49,7 +49,9 @@ Utiliser l'outil en ligne [GlooMaps](https://www.gloomaps.com) pour effectuer ce
 ## #3. Mockup
 
 Réalisez les mockups de votre futur design en mettant l'accent sur l'UX et en respectant l'arborescence.  
-Effectuer des essais de navigation avec des personnes étrangères à votre équipe et soyez sûr de votre UX avant de passer à la suite. Cette étape sera votre "guide" pour la suite et ne pourra plus être changé. Donc prenez le temps de la réflexion et envisagez toutes les possibilitées.
+Effectuer des essais de navigation avec des personnes étrangères à votre équipe et soyez sûr de votre UX avant de passer à la suite.
+
+Cette étape sera votre "guide" pour la suite.
 
 ## #4. Template
 
@@ -85,5 +87,6 @@ Voici la liste des documents clés que devra être fournis :
 
 # Notes
 
-Éviter les brainstormings à rallonge et si vous en avez besoin souvent, c'est que votre organisation ne va pas. Dans ce cas, réorganisez-vous rapidement.  
+Éviter les brainstormings à rallonge et si vous en avez besoin souvent, c'est que votre organisation ne va pas. Dans ce cas, réorganisez-vous rapidement.
+
 La deadline est importante, tous projets rendus après cette date, ne sera pas présenté au client.
