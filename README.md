@@ -49,7 +49,7 @@ Utiliser l'outil en ligne [GlooMaps](https://www.gloomaps.com) pour effectuer ce
 ## #3. Mockup
 
 Réalisez les mockups de votre futur design en mettant l'accent sur l'UX et en respectant l'arborescence.  
-Effectuer des essais  de navigation avec des personnes étrangères à votre équipe
+Effectuer des essais de navigation avec des personnes étrangères à votre équipe et soyez sûr de votre UX avant de passer à la suite. Cette étape sera votre "guide" pour la suite et ne pourra plus être changé. Donc prenez le temps de la réflexion et envisagez toutes les possibilitées.
 
 ## #4. Template
 
@@ -57,7 +57,13 @@ Effectuer des essais  de navigation avec des personnes étrangères à votre éq
 
 > :warning: Faites bien attention à ce que votre template respecte vos mockups sans quoi cette étape ne sera pas validée.
 
-## #5. Site vitrine
+## #5. Organisation
+
+Avant de se lancer dans le développement du site, il faut s'organiser. Votre travail devra se trouver sur **un dépôt GIT obligatoirement dans lequel vous devez inviter le chef de groupe** pour qu'il puisse visualiser l'avancement du projet.
+
+Voici une proposition d'organisation : https://www.branchci.com/learn/git-for-wordpress. Si elle ne vous convient pas, vous pouvez en changer.
+
+## #6. Site vitrine
 
 Intégrer votre template sur un Wordpress en créant un design from scratch et non depuis un thème enfant.  
 Effectuez les recherches nécessaires et centraliser les dans Notions ou autre de manière que toute l'équipe puissent en profiter.
@@ -66,7 +72,9 @@ Effectuez les recherches nécessaires et centraliser les dans Notions ou autre d
 
 Respecter le SEO et [l'accessibilité](https://blog.ipedis.com/ameliorer-accessibilite-numerique-site-web.).
 
-## #6. Livraison
+> Conseil : intégrez vos pages simplement en HTML/CSS. Vous pourrez par la suite récupérer toutes les parties dont vous avez besoin pour constituer le site sous Wordpress.
+
+## #7. Livraison
 
 Voici la liste des documents clés que devra être fournis :
 * L’arborescence du site
