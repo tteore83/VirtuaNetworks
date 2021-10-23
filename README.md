@@ -82,6 +82,7 @@ Voici la liste des documents clés que devra être fournis :
 * L’arborescence du site
 * Les mockups et les templates (formats images et originaux)
 * Les codes HTML et CSS utilisés
+* Les screens du test de rapidité du site (mobile et desktop)
 * Les codes d’accès à votre interface d’administration
 * Une documentation décrivant son fonctionnement destiné au client
 
