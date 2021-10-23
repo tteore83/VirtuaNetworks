@@ -5,7 +5,7 @@ Le client, Jérôme Louis, considère ce projet comme une "phase 1". Ce qui lais
 
 ## Durée du projet
 
-Du lundi 25 octobre au vendredi 12 novembre 2021
+Du lundi 25 octobre au vendredi 19 novembre 2021
 
 ## Chef de groupe
 
