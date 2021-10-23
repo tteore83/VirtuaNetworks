@@ -14,7 +14,7 @@ Chaque étape doit être validée par le chef de groupe avant de passer à la su
 
 ## Chef d'équipe
 
-Afin d'avancer de manière linéaire, vous devez choisir un chef d'équipe qui sera en communication avec le chef de groupe afin de faciliter la communication.
+Afin d'avancer de manière linéaire, vous devez choisir un chef d'équipe ce qui facilitera la communication avec le chef de groupe.
 
 > :warning: On redescend sur terre. Le chef d'équipe n'est pas le coordinateur du groupe. Son rôle est de simplifier la communication avec le chef de groupe. Les décisions doivent se prendre de manière **collégiale**.
 
