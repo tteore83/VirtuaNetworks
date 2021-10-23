@@ -73,7 +73,7 @@ Voici la liste des documents clés que devra être fournis :
 * Les mockups et les templates (formats images et originaux)
 * Les codes HTML et CSS utilisés
 * Les codes d’accès à votre interface d’administration
-* Un cahier décrivant son fonctionnement
+* Une documentation décrivant son fonctionnement destiné au client
 
 # Notes
 
