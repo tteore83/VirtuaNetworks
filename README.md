@@ -9,14 +9,18 @@ Du lundi 25 octobre au vendredi 19 novembre 2021
 
 ## Chef de groupe
 
-**Guillaume Bouyer**  
-Chaque étape doit être validée par l'équipe à l'unanimité et le chef de groupe **avant de passer à la suivante**.
+**Guillaume Bouyer**
 
 ## Chef d'équipe
 
 Afin d'avancer de manière linéaire, vous devez choisir un chef d'équipe ce qui facilitera la communication avec le chef de groupe. 
 
 > :warning: On redescend sur terre. Le chef d'équipe n'est pas le coordinateur du groupe. Son rôle est de simplifier la communication avec le chef de groupe. Les décisions doivent se prendre de manière **collégiale**.
+
+## Validation des étapes
+
+Chaque étape doit être validée par l'équipe **à l'unanimité** et **le chef de groupe** avant de passer à la suivante.  
+Une équipe ne respectant pas cette validation s'en retrouvera sanctionnée en ayant son projet non présenté au client.
 
 ## Organisation
 
