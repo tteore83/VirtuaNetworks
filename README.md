@@ -19,7 +19,9 @@ Afin d'avancer de manière linéaire, vous devez choisir un chef d'équipe ce qu
 
 ## Validation des étapes
 
-Chaque étape doit être validée par l'équipe **à l'unanimité** et **le chef de groupe** avant de passer à l'étape suivante.  
+Chaque étape doit être validée par l'équipe **à l'unanimité** et **le chef de groupe** avant de passer à l'étape suivante.
+
+La validation des étapes est importante. Elle permet d'être cohérent dans votre avancement sur le développement du projet et de se poser les bonnes questions au bon moment afin d'éviter toutes modifications plus tard qui pourraient être contraignantes. Bien entendu, des changements peuvent survenir sans pour autant les avoir anticipées.
 
 ## Organisation
 
@@ -94,7 +96,5 @@ Voici la liste des documents clés que devra être fournis :
 # Notes
 
 Éviter les brainstormings à rallonge et si vous en avez besoin souvent, c'est que votre organisation ne va pas. Dans ce cas, réorganisez-vous rapidement.
-
-La validation des étapes est importante. Elle permet d'être cohérent dans votre avancement sur le développement du projet et de se poser les bonnes questions au bon moment afin d'éviter toutes modifications plus tard qui pourraient être contraignantes. Bien entendu, des changements peuvent survenir sans pour autant les avoir anticipées.
 
 La deadline est importante, tous projets rendus après cette date, ne sera pas présenté au client.
