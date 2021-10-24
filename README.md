@@ -10,7 +10,7 @@ Du lundi 25 octobre au vendredi 19 novembre 2021
 ## Chef de groupe
 
 **Guillaume Bouyer**  
-Chaque étape doit être validée par le chef de groupe avant de passer à la suivante.
+Chaque étape doit être validée par l'équipe à l'unanimité et le chef de groupe **avant de passer à la suivante**.
 
 ## Chef d'équipe
 
