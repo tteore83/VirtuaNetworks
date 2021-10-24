@@ -24,6 +24,8 @@ L'organisation est très importante et le nombres d'outils mise à disposition l
 
 La version en équipe propose une version gratuite de 30 jours, ce qui sera largement nécessaire.
 
+> :warning: Le chef de groupe, mais aussi votre équipe, doit être capable de pouvoir savoir où vous en êtes sur le projet et qui fais quoi sans avoir à vous le demander. **Notez bien l'état d'avancement.**
+
 ## Cahier des charges
 
 Le cahier des charges reprend la description de l'entreprise et de ses différents services.  
@@ -89,5 +91,7 @@ Voici la liste des documents clés que devra être fournis :
 # Notes
 
 Éviter les brainstormings à rallonge et si vous en avez besoin souvent, c'est que votre organisation ne va pas. Dans ce cas, réorganisez-vous rapidement.
+
+La validation des étapes est importante. Elle permet d'être cohérent dans votre avancement sur le développement du projet et de se poser les bonnes questions au bon moment afin d'éviter toutes modifications plus tard qui pourraient être contraignantes. Bien entendu, des changements peuvent survenir sans pour autant les avoir anticipées.
 
 La deadline est importante, tous projets rendus après cette date, ne sera pas présenté au client.
