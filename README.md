@@ -19,8 +19,7 @@ Afin d'avancer de manière linéaire, vous devez choisir un chef d'équipe ce qu
 
 ## Validation des étapes
 
-Chaque étape doit être validée par l'équipe **à l'unanimité** et **le chef de groupe** avant de passer à la suivante.  
-Une équipe ne respectant pas cette validation s'en retrouvera sanctionnée en ayant son projet non présenté au client.
+Chaque étape doit être validée par l'équipe **à l'unanimité** et **le chef de groupe** avant de passer à l'étape suivante.  
 
 ## Organisation
 
